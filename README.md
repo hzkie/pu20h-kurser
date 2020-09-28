@@ -1,6 +1,6 @@
 # PU20 Kurser
 
-| Paragraph | :D |
+Det här är en paragraph
 
 1. Det
 2. här
